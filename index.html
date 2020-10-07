@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RomuRabble</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+</head>
+<body>
+  <header class="container">
+    <h1>Welcome to RomuRabble</h1>
+    <p>
+      RomuRabble is a project containing tools and data for the analysis of the Romulan language
+      as it appears in Star Trek: Picard
+    </p>
+  </header>
+  <main class="container">
+    <div id="seasons"></div>
+    <template id="season">
+      <h2 class="season-name"></h2>
+      <p class="season-description"></p>
+      <div class="audio-files"></div>
+    </template>
+    <template>
+      <img class="spectrogram">
+      <audio controls>Your browser doesn't support the HTML5 audio element.</audio>
+      <dl>
+        <div>
+          <dt>Impressionistic transcription</dt>
+          <dd class="impression-ipa"></dd>
+        </div>
+        <div>
+          <dt>Latin transcription</dt>
+          <dd class="latin-transc"></dd>
+        </div>
+        <div>
+          <dt>Meaning</dt>
+          <dd class="meaning"></dd>
+        </div>
+      </dl>
+    </template>
+  </main>
+</body>
+</html>
