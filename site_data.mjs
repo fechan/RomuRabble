@@ -86,7 +86,7 @@ export const romulanSpeech = [
         "time": 705.079,
         "audio": "s1e3_discourse3_705.079_(FEMALE VOICE SPEAKING ROMULAN).mp3",
         "spectrogram": "s1e3_discourse3_705.079_(FEMALE VOICE SPEAKING ROMULAN).png",
-        "meaning": "You are free now, my friend."
+        "meaning": ""
       },
       {
         "id": 10,
