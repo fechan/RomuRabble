@@ -51,6 +51,7 @@ export const romulanSpeech = [
         "time": 1927.482,
         "audio": "s1e2_discourse3_1016.69_[SPEAKING ROMULAN] _.mp3",
         "spectrogram": "s1e2_discourse3_1016.69_[SPEAKING ROMULAN] _.png",
+        "latin_transcription": "Viktra neth wass valuum?",
         "meaning": "Can you keep a secret?"
       },
       {
@@ -117,6 +118,7 @@ export const romulanSpeech = [
         "time": 1602.546,
         "audio": "s1e3_discourse9_1602.546_UNKNOWN.mp3",
         "spectrogram": "s1e3_discourse9_1602.546_UNKNOWN.png",
+        "latin_transcription": "Yiwav sooha wassyakassa kahfavret",
         "meaning": "If certain people requested entry..."
       },
       {
@@ -127,6 +129,7 @@ export const romulanSpeech = [
         "time": 1606.347,
         "audio": "s1e3_discourse9_1606.347_UNKNOWN.mp3",
         "spectrogram": "s1e3_discourse9_1606.347_UNKNOWN.png",
+        "latin_transcription": "eedayhoon fal teh voh?",
         "meaning": "...would it be granted?"
       },
       {
@@ -137,6 +140,7 @@ export const romulanSpeech = [
         "time": 1799.409,
         "audio": "s1e3_discourse10_1799.409_UNKNOWN.mp3",
         "spectrogram": "s1e3_discourse10_1799.409_UNKNOWN.png",
+        "latin_transcription": "Nehn vrelev zohzuus.",
         "meaning": "We are not like them anymore."
       },
       {
@@ -157,6 +161,7 @@ export const romulanSpeech = [
         "time": 1843.55,
         "audio": "s1e3_discourse11_1843.55_UNKNOWN.mp3",
         "spectrogram": "s1e3_discourse11_1843.55_UNKNOWN.png",
+        "latin_transcription": "Lehsbey invehcreese nehveltev staam.",
         "meaning": "My presence is an intrusion, forgive it."
       }
     ]
@@ -172,6 +177,7 @@ export const romulanSpeech = [
         "time": 112.217,
         "audio": "s1e4_discourse2_112.217_UNKNOWN.mp3",
         "spectrogram": "s1e4_discourse2_112.217_UNKNOWN.png",
+        "latin_transcription": "Shauwdaur botwar!",
         "meaning": "Run, sisterboy!"
       },
       {
@@ -182,6 +188,7 @@ export const romulanSpeech = [
         "time": 113.918,
         "audio": "s1e4_discourse2_113.918_UNKNOWN.mp3",
         "spectrogram": "s1e4_discourse2_113.918_UNKNOWN.png",
+        "latin_transcription": "Sharah aroostos!",
         "meaning": "Bite me!"
       },
       {
@@ -192,6 +199,7 @@ export const romulanSpeech = [
         "time": 146.371,
         "audio": "s1e4_discourse3_146.371_UNKNOWN.mp3",
         "spectrogram": "s1e4_discourse3_146.371_UNKNOWN.png",
+        "latin_transcription": "Sammeh! Sammeh!",
         "meaning": "He's coming!",
         "notes": "Official hardsubs only state \"He's coming!\" once, but it's likely he this twice."
       },
@@ -203,6 +211,7 @@ export const romulanSpeech = [
         "time": 155.263,
         "audio": "s1e4_discourse4_155.263_UNKNOWN.mp3",
         "spectrogram": "s1e4_discourse4_155.263_UNKNOWN.png",
+        "latin_transcription": "La-hok yuun uzor nek varet viyuun.",
         "meaning": "Let yourself be seen."
       },
       {
@@ -213,6 +222,7 @@ export const romulanSpeech = [
         "time": 939.561,
         "audio": "s1e4_discourse5_939.561_UNKNOWN.mp3",
         "spectrogram": "s1e4_discourse5_939.561_UNKNOWN.png",
+        "latin_transcription": "Ramdha shabakom, widuus fidufi wass kai Ganmadan.",
         "meaning": "Professor Ramdha, what can you tell us about Ganmadan?",
         "notes": "Ganmadan is the \"Day of Annihilation\", as confirmed in the official subtitles for utterance 32 and by Narek in PIC 1x10."
       },
@@ -224,6 +234,7 @@ export const romulanSpeech = [
         "time": 943.962,
         "audio": "s1e4_discourse5_943.962_UNKNOWN.mp3",
         "spectrogram": "s1e4_discourse5_943.962_UNKNOWN.png",
+        "latin_transcription": "Ganmadan n'rihaar falakfar dranbst steb faifsneh mahktaar.",
         "meaning": "Ganmadan is what our ancestors called the Day of Annihilation"
       },
       {
@@ -234,6 +245,7 @@ export const romulanSpeech = [
         "time": 949.563,
         "audio": "s1e4_discourse5_949.563_UNKNOWN.mp3",
         "spectrogram": "s1e4_discourse5_949.563_UNKNOWN.png",
+        "latin_transcription": "Sa viduus dor kehm 'mahktaar'...",
         "meaning": "When you say \"annihilation\"..."
       },
       {
@@ -244,6 +256,7 @@ export const romulanSpeech = [
         "time": 952.164,
         "audio": "s1e4_discourse5_952.164_UNKNOWN.mp3",
         "spectrogram": "s1e4_discourse5_952.164_UNKNOWN.png",
+        "latin_transcription": "Daneek pal.",
         "meaning": "Of everything."
       },
       {
@@ -254,6 +267,7 @@ export const romulanSpeech = [
         "time": 953.565,
         "audio": "s1e4_discourse5_953.565_UNKNOWN.mp3",
         "spectrogram": "s1e4_discourse5_953.565_UNKNOWN.png",
+        "latin_transcription": "Dal gevuul, nigau.",
         "meaning": "All life, everywhere."
       },
       {
@@ -264,6 +278,7 @@ export const romulanSpeech = [
         "time": 957.166,
         "audio": "s1e4_discourse5_957.166_UNKNOWN.mp3",
         "spectrogram": "s1e4_discourse5_957.166_UNKNOWN.png",
+        "latin_transcription": "zekha trekt logevlaza ektoi sorat",
         "meaning": "When all the shackled demons break their chains,"
       },
       {
@@ -274,6 +289,7 @@ export const romulanSpeech = [
         "time": 959.067,
         "audio": "s1e4_discourse5_959.067_UNKNOWN.mp3",
         "spectrogram": "s1e4_discourse5_959.067_UNKNOWN.png",
+        "latin_transcription": "Zha hass velavoor",
         "meaning": "and answer the call of"
       },
       {
@@ -284,6 +300,7 @@ export const romulanSpeech = [
         "time": 964.068,
         "audio": "s1e4_discourse5_964.068_UNKNOWN.mp3",
         "spectrogram": "s1e4_discourse5_964.068_UNKNOWN.png",
+        "latin_transcription": "Seb-Cheneb.",
         "meaning": "The Destroyer"
       },
       {
@@ -461,6 +478,7 @@ export const romulanSpeech = [
         "time": 2355.028,
         "audio": "s1e6_discourse3_2355.028_UNKNOWN.mp3",
         "spectrogram": "s1e6_discourse2_2355.028_UNKNOWN.png",
+        "latin_transcription": "Nimm vrakesh.",
         "meaning": "Not for her."
       },
       {
@@ -471,6 +489,7 @@ export const romulanSpeech = [
         "time": 2357.565,
         "audio": "s1e6_discourse3_2357.565_UNKNOWN.mp3",
         "spectrogram": "s1e6_discourse3_2357.565_UNKNOWN.png",
+        "latin_transcription": "Zhal Makh nimm vramin gadar.",
         "meaning": "Zhal Makh is not for round-ears."
       },
       {
@@ -481,6 +500,7 @@ export const romulanSpeech = [
         "time": 2360.066,
         "audio": "s1e6_discourse3_2360.066_UNKNOWN.mp3",
         "spectrogram": "s1e6_discourse3_2360.066_UNKNOWN.png",
+        "latin_transcription": "Ikell uhklet nem vrann ilell. Vijot uhl chaltov.",
         "meaning": "And a sub-commander's bars are not for idiots. You risk losing them."
       }
     ]
@@ -494,8 +514,9 @@ export const romulanSpeech = [
         "episode": 7,
         "discourse": 2,
         "time": 413.275,
-        "audio": "s1e7_discourse5_413.275_UNKNOWN.mp3",
-        "spectrogram": "s1e7_discourse5_413.275_UNKNOWN.png",
+        "audio": "s1e7_discourse2_413.275_UNKNOWN.mp3",
+        "spectrogram": "s1e7_discourse2_413.275_UNKNOWN.png",
+        "latin_transcription": "Vesh ta'jot.",
         "meaning": "Kill them all."
       },
       {
@@ -506,6 +527,7 @@ export const romulanSpeech = [
         "time": 2276.713,
         "audio": "s1e7_discourse5_2276.713_UNKNOWN.mp3",
         "spectrogram": "s1e7_discourse5_2276.713_UNKNOWN.png",
+        "latin_transcription": "Feldor staam toreht.",
         "meaning": "Please, friends. Choose to live."
       },
       {
@@ -516,6 +538,7 @@ export const romulanSpeech = [
         "time": 2278.514,
         "audio": "s1e7_discourse5_2278.514_UNKNOWN.mp3",
         "spectrogram": "s1e7_discourse5_2278.514_UNKNOWN.png",
+        "latin_transcription": "Rashant...",
         "meaning": "I admit..."
       },
       {
@@ -526,6 +549,7 @@ export const romulanSpeech = [
         "time": 2280.715,
         "audio": "s1e7_discourse5_2280.715_UNKNOWN.mp3",
         "spectrogram": "s1e7_discourse5_2280.715_UNKNOWN.png",
+        "latin_transcription": "sudan ropengneh nah.",
         "meaning": "...I was not expecting this."
       },
       {
@@ -536,6 +560,7 @@ export const romulanSpeech = [
         "time": 2311.627,
         "audio": "s1e7_discourse6_2311.627_UNKNOWN.mp3",
         "spectrogram": "s1e7_discourse6_2311.627_UNKNOWN.png",
+        "latin_transcription": "Nenhahn impahr zhatu Zhat Vash val Qowat Milat konin.",
         "meaning": "This is not how Zhat Vash fights Qowat Milat."
       },
       {
@@ -546,6 +571,7 @@ export const romulanSpeech = [
         "time": 2325.128,
         "audio": "s1e7_discourse6_2325.128_UNKNOWN.mp3",
         "spectrogram": "s1e7_discourse6_2325.128_UNKNOWN.png",
+        "latin_transcription": "Yiehviin d'taav.",
         "meaning": "If that's what you are."
       }
     ]
