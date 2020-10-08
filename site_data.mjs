@@ -430,6 +430,7 @@ export const romulanSpeech = [
         "time": 2026.715,
         "audio": "s1e4_discourse13_2026.715_UNKNOWN.mp3",
         "spectrogram": "s1e4_discourse13_2026.715_UNKNOWN.png",
+        "impressionistic_ipa": "[ɹanatuʃa]",
         "meaning": "I grieve."
       },
       {
@@ -440,6 +441,7 @@ export const romulanSpeech = [
         "time": 2114.064,
         "audio": "s1e4_discourse14_2114.064_UNKNOWN.mp3",
         "spectrogram": "s1e4_discourse14_2114.064_UNKNOWN.png",
+        "impressionistic_ipa": "[ran veha strud͡ʒat pikard d͡ʒɹa kalankai]",
         "meaning": "I have bound myself to Picard as qalankhkai"
       },
       {
@@ -547,6 +549,7 @@ export const romulanSpeech = [
         "audio": "s1e7_discourse5_2278.514_UNKNOWN.mp3",
         "spectrogram": "s1e7_discourse5_2278.514_UNKNOWN.png",
         "latin_transcription": "Rashant...",
+        "impressionistic_ipa": "[ɹaʃant]",
         "meaning": "I admit..."
       },
       {
@@ -558,6 +561,7 @@ export const romulanSpeech = [
         "audio": "s1e7_discourse5_2280.715_UNKNOWN.mp3",
         "spectrogram": "s1e7_discourse5_2280.715_UNKNOWN.png",
         "latin_transcription": "sudan ropengneh nah.",
+        "impressionistic_ipa": "[sunan ɹəpeŋɡenaː]",
         "meaning": "...I was not expecting this."
       },
       {
