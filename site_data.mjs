@@ -281,8 +281,9 @@ export const romulanSpeech = [
         "time": 957.166,
         "audio": "s1e4_discourse5_957.166_UNKNOWN.mp3",
         "spectrogram": "s1e4_discourse5_957.166_UNKNOWN.png",
-        "latin_transcription": "zekha trekt logevlaza ektoi sorat",
-        "meaning": "When all the shackled demons break their chains,"
+        "latin_transcription": "Zha hass velavoor",
+        "meaning": "When all the shackled demons break their chains,",
+        "notes": "Potentially the official subtitles given for utterance 37 are actually for 36 and vice versa. There are a lot of content words in \"When all the shackled demons break their chains\", which would suggest it should be paired with 37, which is longer. If so, the subtitles might be switched because the Romulan word or clause order didn't sound natural in English. Switching the order of clauses is not uncommon in subtitles if the original language has a different word order (e.g. Japanese)."
       },
       {
         "id": 37,
@@ -292,8 +293,9 @@ export const romulanSpeech = [
         "time": 959.067,
         "audio": "s1e4_discourse5_959.067_UNKNOWN.mp3",
         "spectrogram": "s1e4_discourse5_959.067_UNKNOWN.png",
-        "latin_transcription": "Zha hass velavoor",
-        "meaning": "and answer the call of"
+        "latin_transcription": "zekha trekt logevlaza ektoi sorat",
+        "meaning": "and answer the call of",
+        "notes": "Potentially the official subtitles given for utterance 37 are actually for 36 and vice versa. There are a lot of content words in \"When all the shackled demons break their chains\", which would suggest it should be paired with 37, which is longer. If so, the subtitles might be switched because the Romulan word or clause order didn't sound natural in English. Switching the order of clauses is not uncommon in subtitles if the original language has a different word order (e.g. Japanese)."
       },
       {
         "id": 38,
