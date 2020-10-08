@@ -13,7 +13,10 @@ export const romulanSpeech = [
         "time": 327.892,
         "audio": "s1e1_discourse3_327.892_[IN ALIEN LANGUAGE] _.mp3",
         "spectrogram": "s1e1_discourse3_327.892_[IN ALIEN LANGUAGE] _.png",
-        "meaning": ""
+        "meaning": "She hasn't activated yet.",
+        "latin_transcription": "ne brahawik",
+        "impressionistic_ipa": "[ne bɾɑhɑwik]",
+        "notes": "Speaker is wearing a helmet. \"She\" is referring to Dahj Asha, the android."
       },
       {
         "id": 1,
@@ -83,7 +86,8 @@ export const romulanSpeech = [
         "time": 1568.567,
         "audio": "s1e3_discourse8_1568.567_(VOICES MURMURING QUIETLY IN ROMULAN).mp3",
         "spectrogram": "s1e3_discourse8_1568.567_(VOICES MURMURING QUIETLY IN ROMULAN).png",
-        "meaning": ""
+        "meaning": "",
+        "notes": "Subtitles say \"VOICES MURMURING QUIETLY IN ROMULAN\", but if that's the case, it's hard to hear."
       },
       {
         "id": 12,
