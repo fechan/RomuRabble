@@ -3,7 +3,7 @@
  */
 export const romulanSpeech = [
   {
-    "episode_name": "PIC 1x01",
+    "episode_name": "PIC 1x01 Remembrance",
     "utterances": [
       {
         "id": 2,
@@ -31,7 +31,7 @@ export const romulanSpeech = [
     ]
   },
   {
-    "episode_name": "PIC 1x02",
+    "episode_name": "PIC 1x02 Maps and Legends",
     "utterances": [
       {
         "id": 4,
@@ -46,7 +46,7 @@ export const romulanSpeech = [
     ]
   },
   {
-    "episode_name": "PIC 1x03",
+    "episode_name": "PIC 1x03 The End is the Beginning",
     "utterances": [
       {
         "id": 8,
@@ -132,7 +132,7 @@ export const romulanSpeech = [
     ]
   },
   {
-    "episode_name": "PIC 1x04",
+    "episode_name": "PIC 1x04 Absolute Candor",
     "utterances": [
       {
         "id": 27,
@@ -407,7 +407,7 @@ export const romulanSpeech = [
     ]
   },
   {
-    "episode_name": "PIC 1x06",
+    "episode_name": "PIC 1x06 The Impossible Box",
     "utterances": [
       {
         "id": 43,
@@ -432,7 +432,7 @@ export const romulanSpeech = [
     ]
   },
   {
-    "episode_name": "PIC 1x07",
+    "episode_name": "PIC  Nepenthe",
     "utterances": [
       {
         "id": 46,
