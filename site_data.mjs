@@ -62,6 +62,7 @@ export const romulanSpeech = [
         "time": 1927.482,
         "audio": "s1e2_discourse4_1927.482_[SPEAKING ROMULAN] _.mp3",
         "spectrogram": "s1e2_discourse4_1927.482_[SPEAKING ROMULAN] _.png",
+        "impressionistic_ipa": "[təɡapʰəket bəʊken]",
         "meaning": "You are free now, my friend."
       }
     ]
@@ -77,7 +78,9 @@ export const romulanSpeech = [
         "time": 696.577,
         "audio": "s1e3_discourse3_696.577_UNKNOWN.mp3",
         "spectrogram": "s1e3_discourse3_696.577_UNKNOWN.png",
-        "meaning": "You are free now, my friend."
+        "impressionistic_ipa": "[təɡapʰəket boʊken]",
+        "meaning": "You are free now, my friend.",
+        "nots": "Same as utterance 4, but heard through a surveillance camera."
       },
       {
         "id": 9,
@@ -351,6 +354,7 @@ export const romulanSpeech = [
         "time": 1350.74,
         "audio": "s1e4_discourse10_1350.74_UNKNOWN.mp3",
         "spectrogram": "s1e4_discourse10_1350.74_UNKNOWN.png",
+        "impressionistic_ipa": "[lamtu ləd͡ʒaʊ ʃəmakpitʰ]",
         "meaning": "An old friend of my father's."
       },
       {
@@ -413,6 +417,7 @@ export const romulanSpeech = [
         "time": 2024.913,
         "audio": "s1e4_discourse13_2024.913_UNKNOWN.mp3",
         "spectrogram": "s1e4_discourse13_2024.913_UNKNOWN.png",
+        "impressionistic_ipa": "[tulok peɡaːn]",
         "meaning": "My friends."
       },
       {
@@ -528,6 +533,7 @@ export const romulanSpeech = [
         "audio": "s1e7_discourse5_2276.713_UNKNOWN.mp3",
         "spectrogram": "s1e7_discourse5_2276.713_UNKNOWN.png",
         "latin_transcription": "Feldor staam toreht.",
+        "impressionistic_ipa": "[feldoɾ staːm tʰoɾetʰ]",
         "meaning": "Please, friends. Choose to live."
       },
       {
