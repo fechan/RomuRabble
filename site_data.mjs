@@ -19,6 +19,16 @@ export const romulanSpeech = [
         "notes": "Speaker is wearing a helmet. \"She\" is referring to Dahj Asha, the android."
       },
       {
+        "id": 3,
+        "season": 1,
+        "episode": 1,
+        "discourse": 10,
+        "time": 2443.571,
+        "audio": "s1e1_discourse10_2443.571_[COMMUNICATION IN ROMULAN].mp3",
+        "spectrogram": "s1e1_discourse10_2443.571_[COMMUNICATION IN ROMULAN].png",
+        "meaning": "Unknown. Plays during establishing shot of Romulan ship. Some kind of radio chatter?"
+      },
+      {
         "id": 1,
         "season": 1,
         "episode": 1,
@@ -26,7 +36,7 @@ export const romulanSpeech = [
         "time": 2551.461,
         "audio": "s1e1_discourse11_2551.461_[ANNOUNCEMENT IN ROMULAN].mp3",
         "spectrogram": "s1e1_discourse11_2551.461_[ANNOUNCEMENT IN ROMULAN].png",
-        "meaning": ""
+        "meaning": "Unknown. Some kind of announcement on the Artifact."
       }
     ]
   },
@@ -41,7 +51,7 @@ export const romulanSpeech = [
         "time": 1927.482,
         "audio": "s1e2_discourse4_1927.482_[SPEAKING ROMULAN] _.mp3",
         "spectrogram": "s1e2_discourse4_1927.482_[SPEAKING ROMULAN] _.png",
-        "meaning": ""
+        "meaning": "Can you keep a secret?"
       }
     ]
   },
@@ -56,7 +66,7 @@ export const romulanSpeech = [
         "time": 696.577,
         "audio": "s1e3_discourse3_696.577_UNKNOWN.mp3",
         "spectrogram": "s1e3_discourse3_696.577_UNKNOWN.png",
-        "meaning": ""
+        "meaning": "You are free now, my friend."
       },
       {
         "id": 9,
@@ -66,7 +76,7 @@ export const romulanSpeech = [
         "time": 705.079,
         "audio": "s1e3_discourse3_705.079_(FEMALE VOICE SPEAKING ROMULAN).mp3",
         "spectrogram": "s1e3_discourse3_705.079_(FEMALE VOICE SPEAKING ROMULAN).png",
-        "meaning": ""
+        "meaning": "You are free now, my friend."
       },
       {
         "id": 10,
@@ -97,7 +107,7 @@ export const romulanSpeech = [
         "time": 1602.546,
         "audio": "s1e3_discourse9_1602.546_UNKNOWN.mp3",
         "spectrogram": "s1e3_discourse9_1602.546_UNKNOWN.png",
-        "meaning": ""
+        "meaning": "If certain people requested entry..."
       },
       {
         "id": 13,
@@ -107,7 +117,17 @@ export const romulanSpeech = [
         "time": 1606.347,
         "audio": "s1e3_discourse9_1606.347_UNKNOWN.mp3",
         "spectrogram": "s1e3_discourse9_1606.347_UNKNOWN.png",
-        "meaning": ""
+        "meaning": "...would it be granted?"
+      },
+      {
+        "id": 14,
+        "season": 1,
+        "episode": 3,
+        "discourse": 10,
+        "time": 1799.409,
+        "audio": "s1e3_discourse10_1799.409_UNKNOWN.mp3",
+        "spectrogram": "s1e3_discourse10_1799.409_UNKNOWN.png",
+        "meaning": "We are not like them anymore."
       },
       {
         "id": 6,
@@ -127,7 +147,7 @@ export const romulanSpeech = [
         "time": 1843.55,
         "audio": "s1e3_discourse11_1843.55_UNKNOWN.mp3",
         "spectrogram": "s1e3_discourse11_1843.55_UNKNOWN.png",
-        "meaning": ""
+        "meaning": "My presence is an intrusion, forgive it."
       }
     ]
   },
@@ -142,7 +162,7 @@ export const romulanSpeech = [
         "time": 112.217,
         "audio": "s1e4_discourse2_112.217_UNKNOWN.mp3",
         "spectrogram": "s1e4_discourse2_112.217_UNKNOWN.png",
-        "meaning": ""
+        "meaning": "Run, sisterboy!"
       },
       {
         "id": 28,
@@ -152,7 +172,7 @@ export const romulanSpeech = [
         "time": 113.918,
         "audio": "s1e4_discourse2_113.918_UNKNOWN.mp3",
         "spectrogram": "s1e4_discourse2_113.918_UNKNOWN.png",
-        "meaning": ""
+        "meaning": "Bite me!"
       },
       {
         "id": 29,
@@ -162,7 +182,8 @@ export const romulanSpeech = [
         "time": 146.371,
         "audio": "s1e4_discourse3_146.371_UNKNOWN.mp3",
         "spectrogram": "s1e4_discourse3_146.371_UNKNOWN.png",
-        "meaning": ""
+        "meaning": "He's coming!",
+        "notes": "Official hardsubs only state \"He's coming!\" once, but it's likely he this twice."
       },
       {
         "id": 30,
@@ -172,7 +193,7 @@ export const romulanSpeech = [
         "time": 155.263,
         "audio": "s1e4_discourse4_155.263_UNKNOWN.mp3",
         "spectrogram": "s1e4_discourse4_155.263_UNKNOWN.png",
-        "meaning": ""
+        "meaning": "Let yourself be seen."
       },
       {
         "id": 31,
@@ -182,7 +203,8 @@ export const romulanSpeech = [
         "time": 939.561,
         "audio": "s1e4_discourse5_939.561_UNKNOWN.mp3",
         "spectrogram": "s1e4_discourse5_939.561_UNKNOWN.png",
-        "meaning": ""
+        "meaning": "Professor Ramdha, what can you tell us about Ganmadan?",
+        "notes": "Ganmadan is the \"Day of Annihilation\", as confirmed in the official subtitles for utterance 32 and by Narek in PIC 1x10."
       },
       {
         "id": 32,
@@ -192,7 +214,7 @@ export const romulanSpeech = [
         "time": 943.962,
         "audio": "s1e4_discourse5_943.962_UNKNOWN.mp3",
         "spectrogram": "s1e4_discourse5_943.962_UNKNOWN.png",
-        "meaning": ""
+        "meaning": "Ganmadan is what our ancestors called the Day of Annihilation"
       },
       {
         "id": 33,
@@ -202,7 +224,7 @@ export const romulanSpeech = [
         "time": 949.563,
         "audio": "s1e4_discourse5_949.563_UNKNOWN.mp3",
         "spectrogram": "s1e4_discourse5_949.563_UNKNOWN.png",
-        "meaning": ""
+        "meaning": "When you say \"annihilation\"..."
       },
       {
         "id": 34,
@@ -212,7 +234,7 @@ export const romulanSpeech = [
         "time": 952.164,
         "audio": "s1e4_discourse5_952.164_UNKNOWN.mp3",
         "spectrogram": "s1e4_discourse5_952.164_UNKNOWN.png",
-        "meaning": ""
+        "meaning": "Of everything."
       },
       {
         "id": 35,
@@ -222,7 +244,7 @@ export const romulanSpeech = [
         "time": 953.565,
         "audio": "s1e4_discourse5_953.565_UNKNOWN.mp3",
         "spectrogram": "s1e4_discourse5_953.565_UNKNOWN.png",
-        "meaning": ""
+        "meaning": "All life, everywhere."
       },
       {
         "id": 36,
@@ -232,7 +254,7 @@ export const romulanSpeech = [
         "time": 957.166,
         "audio": "s1e4_discourse5_957.166_UNKNOWN.mp3",
         "spectrogram": "s1e4_discourse5_957.166_UNKNOWN.png",
-        "meaning": ""
+        "meaning": "When all the shackled demons break their chains,"
       },
       {
         "id": 37,
@@ -242,7 +264,7 @@ export const romulanSpeech = [
         "time": 959.067,
         "audio": "s1e4_discourse5_959.067_UNKNOWN.mp3",
         "spectrogram": "s1e4_discourse5_959.067_UNKNOWN.png",
-        "meaning": ""
+        "meaning": "and answer the call of"
       },
       {
         "id": 38,
@@ -252,7 +274,7 @@ export const romulanSpeech = [
         "time": 964.068,
         "audio": "s1e4_discourse5_964.068_UNKNOWN.mp3",
         "spectrogram": "s1e4_discourse5_964.068_UNKNOWN.png",
-        "meaning": ""
+        "meaning": "The Destroyer"
       },
       {
         "id": 39,
@@ -262,7 +284,7 @@ export const romulanSpeech = [
         "time": 1079.996,
         "audio": "s1e4_discourse6_1079.996_UNKNOWN.mp3",
         "spectrogram": "s1e4_discourse6_1079.996_UNKNOWN.png",
-        "meaning": ""
+        "meaning": "Hello."
       },
       {
         "id": 40,
@@ -272,7 +294,7 @@ export const romulanSpeech = [
         "time": 1097.396,
         "audio": "s1e4_discourse6_1097.396_UNKNOWN.mp3",
         "spectrogram": "s1e4_discourse6_1097.396_UNKNOWN.png",
-        "meaning": ""
+        "meaning": "Hello."
       },
       {
         "id": 41,
@@ -282,7 +304,17 @@ export const romulanSpeech = [
         "time": 1172.313,
         "audio": "s1e4_discourse8_1172.313_UNKNOWN.mp3",
         "spectrogram": "s1e4_discourse8_1172.313_UNKNOWN.png",
-        "meaning": ""
+        "meaning": "Sorry."
+      },
+      {
+        "id": 52,
+        "season": 1,
+        "episode": 4,
+        "discourse": 10,
+        "time": 1348.539,
+        "audio": "s1e4_discourse10_1348.539_UNKNOWN.mp3",
+        "spectrogram": "s1e4_discourse10_1350.74_UNKNOWN.png",
+        "meaning": "Who taught you such excellent Romulan?"
       },
       {
         "id": 15,
@@ -292,7 +324,7 @@ export const romulanSpeech = [
         "time": 1350.74,
         "audio": "s1e4_discourse10_1350.74_UNKNOWN.mp3",
         "spectrogram": "s1e4_discourse10_1350.74_UNKNOWN.png",
-        "meaning": ""
+        "meaning": "An old friend of my father's."
       },
       {
         "id": 16,
@@ -302,7 +334,8 @@ export const romulanSpeech = [
         "time": 1352.341,
         "audio": "s1e4_discourse10_1352.341_UNKNOWN.mp3",
         "spectrogram": "s1e4_discourse10_1352.341_UNKNOWN.png",
-        "meaning": ""
+        "meaning": "A professor at the U.",
+        "notes": "Might be worth examining if U (presumably short for University) is also shortened in Romulan"
       },
       {
         "id": 17,
@@ -312,7 +345,8 @@ export const romulanSpeech = [
         "time": 1889.276,
         "audio": "s1e4_discourse11_1889.276_UNKNOWN.mp3",
         "spectrogram": "s1e4_discourse11_1889.276_UNKNOWN.png",
-        "meaning": ""
+        "meaning": "Hello.",
+        
       },
       {
         "id": 18,
@@ -322,7 +356,7 @@ export const romulanSpeech = [
         "time": 1914.78,
         "audio": "s1e4_discourse12_1914.78_UNKNOWN.mp3",
         "spectrogram": "s1e4_discourse12_1914.78_UNKNOWN.png",
-        "meaning": ""
+        "meaning": "Waiter."
       },
       {
         "id": 19,
@@ -332,7 +366,7 @@ export const romulanSpeech = [
         "time": 1917.581,
         "audio": "s1e4_discourse12_1917.581_UNKNOWN.mp3",
         "spectrogram": "s1e4_discourse12_1917.581_UNKNOWN.png",
-        "meaning": ""
+        "meaning": "Waiter!"
       },
       {
         "id": 20,
@@ -352,7 +386,7 @@ export const romulanSpeech = [
         "time": 2024.913,
         "audio": "s1e4_discourse13_2024.913_UNKNOWN.mp3",
         "spectrogram": "s1e4_discourse13_2024.913_UNKNOWN.png",
-        "meaning": ""
+        "meaning": "My friends."
       },
       {
         "id": 22,
@@ -362,7 +396,7 @@ export const romulanSpeech = [
         "time": 2026.715,
         "audio": "s1e4_discourse13_2026.715_UNKNOWN.mp3",
         "spectrogram": "s1e4_discourse13_2026.715_UNKNOWN.png",
-        "meaning": ""
+        "meaning": "I grieve."
       },
       {
         "id": 23,
@@ -372,7 +406,7 @@ export const romulanSpeech = [
         "time": 2114.064,
         "audio": "s1e4_discourse14_2114.064_UNKNOWN.mp3",
         "spectrogram": "s1e4_discourse14_2114.064_UNKNOWN.png",
-        "meaning": ""
+        "meaning": "I have bound myself to Picard as qalankhkai"
       },
       {
         "id": 24,
@@ -382,7 +416,7 @@ export const romulanSpeech = [
         "time": 2119.765,
         "audio": "s1e4_discourse14_2119.765_UNKNOWN.mp3",
         "spectrogram": "s1e4_discourse14_2119.765_UNKNOWN.png",
-        "meaning": ""
+        "meaning": "Anyone who threatens him"
       },
       {
         "id": 25,
@@ -392,7 +426,7 @@ export const romulanSpeech = [
         "time": 2124.166,
         "audio": "s1e4_discourse14_2124.166_UNKNOWN.mp3",
         "spectrogram": "s1e4_discourse14_2124.166_UNKNOWN.png",
-        "meaning": ""
+        "meaning": "will be choosing to die."
       },
       {
         "id": 26,
@@ -402,7 +436,7 @@ export const romulanSpeech = [
         "time": 2252.917,
         "audio": "s1e4_discourse15_2252.917_UNKNOWN.mp3",
         "spectrogram": "s1e4_discourse15_2252.917_UNKNOWN.png",
-        "meaning": ""
+        "meaning": "Light!"
       }
     ]
   },
@@ -413,11 +447,21 @@ export const romulanSpeech = [
         "id": 43,
         "season": 1,
         "episode": 6,
+        "discourse": 2,
+        "time": 2355.028,
+        "audio": "s1e6_discourse3_2355.028_UNKNOWN.mp3",
+        "spectrogram": "s1e6_discourse2_2355.028_UNKNOWN.png",
+        "meaning": "Not for her."
+      },
+      {
+        "id": 51,
+        "season": 1,
+        "episode": 6,
         "discourse": 3,
         "time": 2357.565,
         "audio": "s1e6_discourse3_2357.565_UNKNOWN.mp3",
         "spectrogram": "s1e6_discourse3_2357.565_UNKNOWN.png",
-        "meaning": ""
+        "meaning": "Zhal Makh is not for round-ears."
       },
       {
         "id": 44,
@@ -427,13 +471,23 @@ export const romulanSpeech = [
         "time": 2360.066,
         "audio": "s1e6_discourse3_2360.066_UNKNOWN.mp3",
         "spectrogram": "s1e6_discourse3_2360.066_UNKNOWN.png",
-        "meaning": ""
+        "meaning": "And a sub-commander's bars are not for idiots. You risk losing them."
       }
     ]
   },
   {
-    "episode_name": "PIC  Nepenthe",
+    "episode_name": "PIC 1x07 Nepenthe",
     "utterances": [
+      {
+        "id": 46,
+        "season": 1,
+        "episode": 7,
+        "discourse": 2,
+        "time": 413.275,
+        "audio": "s1e7_discourse5_413.275_UNKNOWN.mp3",
+        "spectrogram": "s1e7_discourse5_413.275_UNKNOWN.png",
+        "meaning": "Kill them all."
+      },
       {
         "id": 46,
         "season": 1,
@@ -442,7 +496,7 @@ export const romulanSpeech = [
         "time": 2276.713,
         "audio": "s1e7_discourse5_2276.713_UNKNOWN.mp3",
         "spectrogram": "s1e7_discourse5_2276.713_UNKNOWN.png",
-        "meaning": ""
+        "meaning": "Please, friends. Choose to live."
       },
       {
         "id": 47,
@@ -452,7 +506,7 @@ export const romulanSpeech = [
         "time": 2278.514,
         "audio": "s1e7_discourse5_2278.514_UNKNOWN.mp3",
         "spectrogram": "s1e7_discourse5_2278.514_UNKNOWN.png",
-        "meaning": ""
+        "meaning": "I admit..."
       },
       {
         "id": 48,
@@ -462,7 +516,7 @@ export const romulanSpeech = [
         "time": 2280.715,
         "audio": "s1e7_discourse5_2280.715_UNKNOWN.mp3",
         "spectrogram": "s1e7_discourse5_2280.715_UNKNOWN.png",
-        "meaning": ""
+        "meaning": "...I was not expecting this."
       },
       {
         "id": 49,
@@ -472,7 +526,7 @@ export const romulanSpeech = [
         "time": 2311.627,
         "audio": "s1e7_discourse6_2311.627_UNKNOWN.mp3",
         "spectrogram": "s1e7_discourse6_2311.627_UNKNOWN.png",
-        "meaning": ""
+        "meaning": "This is not how Zhat Vash fights Qowat Milat."
       },
       {
         "id": 50,
@@ -482,7 +536,7 @@ export const romulanSpeech = [
         "time": 2325.128,
         "audio": "s1e7_discourse6_2325.128_UNKNOWN.mp3",
         "spectrogram": "s1e7_discourse6_2325.128_UNKNOWN.png",
-        "meaning": ""
+        "meaning": "If that's what you are."
       }
     ]
   }
