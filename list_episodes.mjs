@@ -26,6 +26,10 @@ function init() {
       utteranceElem.querySelector("audio").src = `${AUDIO_PATH}/${utterance.audio}`;
       utteranceElem.querySelector(".time-index").textContent = utterance.time;
       utteranceElem.querySelector(".discourse-nbr").textContent = utterance.discourse;
+      utteranceElem.querySelector(".impression-ipa").textContent = utterance.impressionistic_ipa;
+      utteranceElem.querySelector(".latin-transc").textContent = utterance.latin_transcription;
+      utteranceElem.querySelector(".meaning").textContent = utterance.meaning;
+      utteranceElem.querySelector(".notes").textContent = utterance.notes;
       utteranceContainer.appendChild(utteranceElem);
     }
     episodeContainer.appendChild(episodeElem);
