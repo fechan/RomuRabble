@@ -19,26 +19,43 @@
     <template id="episode">
       <h2 class="episode-name"></h2>
       <p class="episode-description"></p>
-      <div class="audio-files"></div>
+      <div class="episode-utterances"></div>
     </template>
-    <template>
-      <img class="spectrogram">
-      <audio controls>Your browser doesn't support the HTML5 audio element.</audio>
-      <dl>
-        <div>
-          <dt>Impressionistic transcription</dt>
-          <dd class="impression-ipa"></dd>
-        </div>
-        <div>
-          <dt>Latin transcription</dt>
-          <dd class="latin-transc"></dd>
-        </div>
-        <div>
-          <dt>Meaning</dt>
-          <dd class="meaning"></dd>
-        </div>
-      </dl>
+    <template id="utterance">
+      <details>
+        <summary></summary>
+        <img class="spectrogram">
+        <audio controls>Your browser doesn't support the HTML5 audio element.</audio>
+        <dl>
+          <div>
+            <dt>Time index (seconds)</dt>
+            <dd class="time-index"></dd>
+          </div>
+          <div>
+            <dt>Discourse #</dt>
+            <dd class="discourse-nbr"></dd>
+          </div>
+          <div>
+            <dt>Impressionistic transcription</dt>
+            <dd class="impression-ipa"></dd>
+          </div>
+          <div>
+            <dt>Latin transcription</dt>
+            <dd class="latin-transc"></dd>
+          </div>
+          <div>
+            <dt>Meaning</dt>
+            <dd class="meaning"></dd>
+          </div>
+          <div>
+            <dt>Notes</dt>
+            <dd class="notes"></dd>
+          </div>
+        </dl>
+      </details>
     </template>
   </main>
+  <script type="module" src="site_data.mjs"></script>
+  <script type="module" src="list_episodes.mjs"></script>
 </body>
 </html>
