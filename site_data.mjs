@@ -44,6 +44,16 @@ export const romulanSpeech = [
     "episode_name": "PIC 1x02 Maps and Legends",
     "utterances": [
       {
+        "id": 53,
+        "season": 1,
+        "episode": 2,
+        "discourse": 3,
+        "time": 1927.482,
+        "audio": "s1e2_discourse3_1016.69_[SPEAKING ROMULAN] _.mp3",
+        "spectrogram": "s1e2_discourse3_1016.69_[SPEAKING ROMULAN] _.png",
+        "meaning": "Can you keep a secret?"
+      },
+      {
         "id": 4,
         "season": 1,
         "episode": 2,
@@ -51,7 +61,7 @@ export const romulanSpeech = [
         "time": 1927.482,
         "audio": "s1e2_discourse4_1927.482_[SPEAKING ROMULAN] _.mp3",
         "spectrogram": "s1e2_discourse4_1927.482_[SPEAKING ROMULAN] _.png",
-        "meaning": "Can you keep a secret?"
+        "meaning": "You are free now, my friend."
       }
     ]
   },
