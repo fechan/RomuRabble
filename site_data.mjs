@@ -476,7 +476,7 @@ export const romulanSpeech = [
         "episode": 6,
         "discourse": 2,
         "time": 2355.028,
-        "audio": "s1e6_discourse3_2355.028_UNKNOWN.mp3",
+        "audio": "s1e6_discourse2_2355.028_UNKNOWN.mp3",
         "spectrogram": "s1e6_discourse2_2355.028_UNKNOWN.png",
         "latin_transcription": "Nimm vrakesh.",
         "meaning": "Not for her."
