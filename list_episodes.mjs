@@ -21,7 +21,7 @@ function init() {
     let utteranceContainer = episodeElem.querySelector(".episode-utterances");
     for (let utterance of episode.utterances) {
       let utteranceElem = utteranceTemplate.content.cloneNode(true);
-      utteranceElem.querySelector("summary").textContent = `Utterance ${utterance.id}`;
+      utteranceElem.querySelector("summary").textContent = `Utterance ${utterance.id} ${utterance.meaning}`;
       utteranceElem.querySelector(".spectrogram").src = `${SPECTROGRAM_PATH}/${utterance.spectrogram}`;
       utteranceElem.querySelector("audio").src = `${AUDIO_PATH}/${utterance.audio}`;
       utteranceElem.querySelector(".time-index").textContent = utterance.time;
