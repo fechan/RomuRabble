@@ -6,6 +6,7 @@ export const romulanSpeech = [
     "episode_name": "PIC 1x01",
     "utterances": [
       {
+        "id": 2,
         "season": 1,
         "episode": 1,
         "discourse": 3,
@@ -15,6 +16,7 @@ export const romulanSpeech = [
         "meaning": ""
       },
       {
+        "id": 1,
         "season": 1,
         "episode": 1,
         "discourse": 11,
@@ -29,6 +31,7 @@ export const romulanSpeech = [
     "episode_name": "PIC 1x02",
     "utterances": [
       {
+        "id": 4,
         "season": 1,
         "episode": 2,
         "discourse": 4,
@@ -43,6 +46,7 @@ export const romulanSpeech = [
     "episode_name": "PIC 1x03",
     "utterances": [
       {
+        "id": 8,
         "season": 1,
         "episode": 3,
         "discourse": 3,
@@ -52,6 +56,7 @@ export const romulanSpeech = [
         "meaning": ""
       },
       {
+        "id": 9,
         "season": 1,
         "episode": 3,
         "discourse": 3,
@@ -61,6 +66,7 @@ export const romulanSpeech = [
         "meaning": ""
       },
       {
+        "id": 10,
         "season": 1,
         "episode": 3,
         "discourse": 5,
@@ -70,6 +76,7 @@ export const romulanSpeech = [
         "meaning": ""
       },
       {
+        "id": 11,
         "season": 1,
         "episode": 3,
         "discourse": 8,
@@ -79,6 +86,7 @@ export const romulanSpeech = [
         "meaning": ""
       },
       {
+        "id": 12,
         "season": 1,
         "episode": 3,
         "discourse": 9,
@@ -88,6 +96,7 @@ export const romulanSpeech = [
         "meaning": ""
       },
       {
+        "id": 13,
         "season": 1,
         "episode": 3,
         "discourse": 9,
@@ -97,6 +106,7 @@ export const romulanSpeech = [
         "meaning": ""
       },
       {
+        "id": 6,
         "season": 1,
         "episode": 3,
         "discourse": 11,
@@ -106,6 +116,7 @@ export const romulanSpeech = [
         "meaning": ""
       },
       {
+        "id": 7,
         "season": 1,
         "episode": 3,
         "discourse": 11,
@@ -120,6 +131,7 @@ export const romulanSpeech = [
     "episode_name": "PIC 1x04",
     "utterances": [
       {
+        "id": 27,
         "season": 1,
         "episode": 4,
         "discourse": 2,
@@ -129,6 +141,7 @@ export const romulanSpeech = [
         "meaning": ""
       },
       {
+        "id": 28,
         "season": 1,
         "episode": 4,
         "discourse": 2,
@@ -138,6 +151,7 @@ export const romulanSpeech = [
         "meaning": ""
       },
       {
+        "id": 29,
         "season": 1,
         "episode": 4,
         "discourse": 3,
@@ -147,6 +161,7 @@ export const romulanSpeech = [
         "meaning": ""
       },
       {
+        "id": 30,
         "season": 1,
         "episode": 4,
         "discourse": 4,
@@ -156,6 +171,7 @@ export const romulanSpeech = [
         "meaning": ""
       },
       {
+        "id": 31,
         "season": 1,
         "episode": 4,
         "discourse": 5,
@@ -165,6 +181,7 @@ export const romulanSpeech = [
         "meaning": ""
       },
       {
+        "id": 32,
         "season": 1,
         "episode": 4,
         "discourse": 5,
@@ -174,6 +191,7 @@ export const romulanSpeech = [
         "meaning": ""
       },
       {
+        "id": 33,
         "season": 1,
         "episode": 4,
         "discourse": 5,
@@ -183,6 +201,7 @@ export const romulanSpeech = [
         "meaning": ""
       },
       {
+        "id": 34,
         "season": 1,
         "episode": 4,
         "discourse": 5,
@@ -192,6 +211,7 @@ export const romulanSpeech = [
         "meaning": ""
       },
       {
+        "id": 35,
         "season": 1,
         "episode": 4,
         "discourse": 5,
@@ -201,6 +221,7 @@ export const romulanSpeech = [
         "meaning": ""
       },
       {
+        "id": 36,
         "season": 1,
         "episode": 4,
         "discourse": 5,
@@ -210,6 +231,7 @@ export const romulanSpeech = [
         "meaning": ""
       },
       {
+        "id": 37,
         "season": 1,
         "episode": 4,
         "discourse": 5,
@@ -219,6 +241,7 @@ export const romulanSpeech = [
         "meaning": ""
       },
       {
+        "id": 38,
         "season": 1,
         "episode": 4,
         "discourse": 5,
@@ -228,6 +251,7 @@ export const romulanSpeech = [
         "meaning": ""
       },
       {
+        "id": 39,
         "season": 1,
         "episode": 4,
         "discourse": 6,
@@ -237,6 +261,7 @@ export const romulanSpeech = [
         "meaning": ""
       },
       {
+        "id": 40,
         "season": 1,
         "episode": 4,
         "discourse": 6,
@@ -246,6 +271,7 @@ export const romulanSpeech = [
         "meaning": ""
       },
       {
+        "id": 41,
         "season": 1,
         "episode": 4,
         "discourse": 8,
@@ -255,6 +281,7 @@ export const romulanSpeech = [
         "meaning": ""
       },
       {
+        "id": 15,
         "season": 1,
         "episode": 4,
         "discourse": 10,
@@ -264,6 +291,7 @@ export const romulanSpeech = [
         "meaning": ""
       },
       {
+        "id": 16,
         "season": 1,
         "episode": 4,
         "discourse": 10,
@@ -273,6 +301,7 @@ export const romulanSpeech = [
         "meaning": ""
       },
       {
+        "id": 17,
         "season": 1,
         "episode": 4,
         "discourse": 11,
@@ -282,6 +311,7 @@ export const romulanSpeech = [
         "meaning": ""
       },
       {
+        "id": 18,
         "season": 1,
         "episode": 4,
         "discourse": 12,
@@ -291,6 +321,7 @@ export const romulanSpeech = [
         "meaning": ""
       },
       {
+        "id": 19,
         "season": 1,
         "episode": 4,
         "discourse": 12,
@@ -300,6 +331,7 @@ export const romulanSpeech = [
         "meaning": ""
       },
       {
+        "id": 20,
         "season": 1,
         "episode": 4,
         "discourse": 12,
@@ -309,6 +341,7 @@ export const romulanSpeech = [
         "meaning": ""
       },
       {
+        "id": 21,
         "season": 1,
         "episode": 4,
         "discourse": 13,
@@ -318,6 +351,7 @@ export const romulanSpeech = [
         "meaning": ""
       },
       {
+        "id": 22,
         "season": 1,
         "episode": 4,
         "discourse": 13,
@@ -327,6 +361,7 @@ export const romulanSpeech = [
         "meaning": ""
       },
       {
+        "id": 23,
         "season": 1,
         "episode": 4,
         "discourse": 14,
@@ -336,6 +371,7 @@ export const romulanSpeech = [
         "meaning": ""
       },
       {
+        "id": 24,
         "season": 1,
         "episode": 4,
         "discourse": 14,
@@ -345,6 +381,7 @@ export const romulanSpeech = [
         "meaning": ""
       },
       {
+        "id": 25,
         "season": 1,
         "episode": 4,
         "discourse": 14,
@@ -354,6 +391,7 @@ export const romulanSpeech = [
         "meaning": ""
       },
       {
+        "id": 26,
         "season": 1,
         "episode": 4,
         "discourse": 15,
@@ -368,6 +406,7 @@ export const romulanSpeech = [
     "episode_name": "PIC 1x06",
     "utterances": [
       {
+        "id": 43,
         "season": 1,
         "episode": 6,
         "discourse": 3,
@@ -377,6 +416,7 @@ export const romulanSpeech = [
         "meaning": ""
       },
       {
+        "id": 44,
         "season": 1,
         "episode": 6,
         "discourse": 3,
@@ -391,6 +431,7 @@ export const romulanSpeech = [
     "episode_name": "PIC 1x07",
     "utterances": [
       {
+        "id": 46,
         "season": 1,
         "episode": 7,
         "discourse": 5,
@@ -400,6 +441,7 @@ export const romulanSpeech = [
         "meaning": ""
       },
       {
+        "id": 47,
         "season": 1,
         "episode": 7,
         "discourse": 5,
@@ -409,6 +451,7 @@ export const romulanSpeech = [
         "meaning": ""
       },
       {
+        "id": 48,
         "season": 1,
         "episode": 7,
         "discourse": 5,
@@ -418,6 +461,7 @@ export const romulanSpeech = [
         "meaning": ""
       },
       {
+        "id": 49,
         "season": 1,
         "episode": 7,
         "discourse": 6,
@@ -427,6 +471,7 @@ export const romulanSpeech = [
         "meaning": ""
       },
       {
+        "id": 50,
         "season": 1,
         "episode": 7,
         "discourse": 6,
